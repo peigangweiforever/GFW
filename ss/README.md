@@ -2,6 +2,7 @@
 ## 节点目录：
 ### Sibyl云加速
 - [CA2节点](README.md#ca2节点)
+- [CA3节点](README.md#ca3节点)
 
 ## Sibyl云加速
 *****
