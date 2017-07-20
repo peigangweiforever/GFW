@@ -62,8 +62,8 @@
 
 ####  Android手机配置链接：
 
-![Android 手机上用默认浏览器打开点我就可以直接添加了(给 原版/SSR APP)](ss://Y2hhY2hhMjA6M3d0RmdEQDY0LjEzNy4xOTAuMTg5OjEwMTQ5)
-![Android 手机上用默认浏览器打开点我就可以直接添加了(给 SSR)](ssr://NjQuMTM3LjE5MC4xODk6MTAxNDk6b3JpZ2luOmNoYWNoYTIwOnBsYWluOk0zZDBSbWRFLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9UTBFZ013Jmdyb3VwPVUybGllV3prdXBIbGlxRHBnSl9saFkzb3RMbm5pWWp2dklqbXVJWG10WUZTWldaeVpYTm9VMU1nNW8tUTVMNmI1cS1QNXB5STZhdVk2TDYtTWxUbXRZSHBoNF9ubW9UbXNMamt1WVhsaFkzb3RMbm5xNW52dklr)
+[Android 手机上用默认浏览器打开点我就可以直接添加了(给 原版/SSR APP)](ss://Y2hhY2hhMjA6M3d0RmdEQDY0LjEzNy4xOTAuMTg5OjEwMTQ5)
+[Android 手机上用默认浏览器打开点我就可以直接添加了(给 SSR)](ssr://NjQuMTM3LjE5MC4xODk6MTAxNDk6b3JpZ2luOmNoYWNoYTIwOnBsYWluOk0zZDBSbWRFLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9UTBFZ013Jmdyb3VwPVUybGllV3prdXBIbGlxRHBnSl9saFkzb3RMbm5pWWp2dklqbXVJWG10WUZTWldaeVpYTm9VMU1nNW8tUTVMNmI1cS1QNXB5STZhdVk2TDYtTWxUbXRZSHBoNF9ubW9UbXNMamt1WVhsaFkzb3RMbm5xNW52dklr)
 
 ----
 #### 原版配置二维码
@@ -95,8 +95,8 @@
 
 ####  Android手机配置链接：
 
-![Android 手机上用默认浏览器打开点我就可以直接添加了(给 原版/SSR APP)](ss://cmM0LW1kNTp4N1h3VG9AODkuNDYuMTIyLjE2NDo2MTAyNw==)
-![Android 手机上用默认浏览器打开点我就可以直接添加了(给 SSR)](ssr://ODkuNDYuMTIyLjE2NDo2MTAyNzpvcmlnaW46cmM0LW1kNTpwbGFpbjplRGRZZDFSdi8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVxeW41clN5NklxQzU0SzUmZ3JvdXA9YzNOMmNHNA)
+[Android 手机上用默认浏览器打开点我就可以直接添加了(给 原版/SSR APP)](ss://cmM0LW1kNTp4N1h3VG9AODkuNDYuMTIyLjE2NDo2MTAyNw==)
+[Android 手机上用默认浏览器打开点我就可以直接添加了(给 SSR)](ssr://ODkuNDYuMTIyLjE2NDo2MTAyNzpvcmlnaW46cmM0LW1kNTpwbGFpbjplRGRZZDFSdi8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVxeW41clN5NklxQzU0SzUmZ3JvdXA9YzNOMmNHNA)
 
 #### 原版配置二维码
 ![Markdown](http://i2.kiimg.com/579510/e169bf8a3d09b4f2.png)
@@ -126,12 +126,12 @@
 
 ####  Android手机配置链接：
 
-![Android 手机上用默认浏览器打开点我就可以直接添加了(给 原版/SSR APP)](ss://cmM0LW1kNTp4N1h3VG9AMTg1LjIwMC4yNDcuMjU6NjEwMjc=)
-![Android 手机上用默认浏览器打开点我就可以直接添加了(给 SSR)](ssr://MTg1LjIwMC4yNDcuMjU6NjEwMjc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZURkWWQxUnYvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz02STIzNVlXdzZJcUM1NEs1Jmdyb3VwPWMzTjJjRzQ)
+[Android 手机上用默认浏览器打开点我就可以直接添加了(给 原版/SSR APP)](ss://cmM0LW1kNTp4N1h3VG9AMTg1LjIwMC4yNDcuMjU6NjEwMjc=)
+
+[Android 手机上用默认浏览器打开点我就可以直接添加了(给 SSR)](ssr://MTg1LjIwMC4yNDcuMjU6NjEwMjc6b3JpZ2luOnJjNC1tZDU6cGxhaW46ZURkWWQxUnYvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz02STIzNVlXdzZJcUM1NEs1Jmdyb3VwPWMzTjJjRzQ)
 
 #### 原版配置二维码
 ![Markdown](http://i4.piimg.com/579510/a03840ccd18d72e4.png)
 
 #### SSR配置二维码
 ![Markdown](http://i4.piimg.com/579510/c1539533651aea19.png)
-
